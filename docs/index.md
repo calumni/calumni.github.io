@@ -1,2 +1,2 @@
-# [Calumni Website](calumni.github.io)
+# [Calumni Website]
 This will be our home page!
