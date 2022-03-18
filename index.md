@@ -1,1 +1,1 @@
-# [Calumni Website](www.calumni.github.io)
+# [Calumni Website](calumni.github.io)
